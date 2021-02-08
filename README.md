@@ -1,4 +1,4 @@
-# ML_study_for_beginners
+# TensorFlow
 ML and DL study / practice using Tensorflow<br>
 <br>
 **Reference**:<br>
